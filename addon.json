@@ -1,0 +1,9 @@
+{
+    "title" : "Lawly's Property Addon",
+    "type"  : "tool",
+    "tags"  : ["roleplay"],
+    "ignore":
+    [
+        "*.git"
+    ]
+}
